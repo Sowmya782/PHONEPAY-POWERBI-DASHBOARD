@@ -16,7 +16,7 @@
 
 ## PROJECT FILE
 
-<a href="YOUR_GITHUB_PROJECT_FILE_LINK">Power BI Project File</a>
+<a href="">Power BI Project File</a>
 
 ---
 
@@ -47,7 +47,7 @@
 
 ## Dashboard
 
-<a  href  =  ""></a>
+<a  href  =  "https://github.com/Sowmya782/PHONEPAY-POWERBI-DASHBOARD/blob/main/PHONEPAY%20DASHBOARD.png"></a>
 ---
 
 ## KEY FINDINGS
