@@ -16,7 +16,7 @@
 
 ## PROJECT FILE
 
-<a href="">Power BI Project File</a>
+<a href="https://github.com/Sowmya782/PHONEPAY-POWERBI-DASHBOARD/blob/main/PHONE%20PE%20POWERBI%20PROJECT.pbix">Power BI Project File</a>
 
 ---
 
