@@ -1,83 +1,81 @@
-# 📱 PhonePe Transaction Analysis – Power BI Dashboard
+# PHONEPE TRANSACTION ANALYSIS DASHBOARD (Interactive Dashboard using Power BI)
 
-## 📌 Project Overview
+---
 
-This project is an **interactive Power BI dashboard** developed to analyze PhonePe transaction data and user activity.
+## PROJECT OVERVIEW
 
-The dashboard provides insights into **transaction volume, transaction value, success rate, user count, transaction trends, payment status, service types, age segments, and time-based performance**.
+- Analyze PhonePe transaction performance.
+- Monitor total transaction value and transaction volume.
+- Track transaction success rate and user activity.
+- Analyze transaction trends across different months and weekdays.
+- Compare transaction performance across service types.
+- Understand user distribution across different age segments.
+- Analyze successful and failed transactions.
 
-## 📊 Dashboard Features
+---
 
-* **KPI Cards** for key performance indicators
-* **Transaction Value Analysis**
-* **Total Transaction Volume**
-* **Transaction Success Rate**
-* **Total User Analysis**
-* **Month-over-Month (MoM) Performance**
-* **Transaction Trends by Month**
-* **Transaction Analysis by Service Type**
-* **Payment Status Analysis**
-* **User Segmentation by Age**
-* **Weekday & Weekend Transaction Analysis**
-* **Interactive Slicers** for filtering dashboard insights
+## PROJECT FILE
 
-## 🗂️ Data Model
+<a href="YOUR_GITHUB_PROJECT_FILE_LINK">Power BI Project File</a>
 
-The Power BI report uses multiple tables including:
+---
 
-* **All_Transactions** – transaction-level information
-* **All_Users** – user-related information
-* **Date_Table** – date and time intelligence
-* **Measures (2)** – centralized DAX measures used for dashboard calculations
+## KEY METRICS
 
-The data model enables interactive filtering and analysis across different dimensions.
+- Total Transaction Value
+- Total Transactions
+- Transaction Success Rate
+- Total Users
+- Total Transaction MoM %
+- Transaction Value MoM %
 
-## 🧮 DAX & Measures
+---
 
-Key DAX measures are used to calculate:
+## BUSINESS ANALYSIS
 
-* Total Transaction Value
-* Total Transactions
-* Total Users
-* Success Rate
-* Transaction Value MoM %
-* Transaction Count MoM %
+- What is the total transaction value?
+- How many transactions were recorded?
+- What is the overall transaction success rate?
+- How does transaction value change month by month?
+- Which weekdays generate higher transaction values?
+- Which service types contribute more to transaction value?
+- How are users distributed across different age segments?
+- How do successful and failed transactions vary over time?
+- How is transaction performance changing month over month?
 
-These measures support dynamic KPI calculations and time-based analysis.
+---
 
-## 📈 Power BI Visualizations
+## Dashboard
 
-The dashboard includes:
+<a  href  =  ""></a>
+---
 
-* **Card Visuals** for KPIs
-* **Line Chart** for monthly transaction trends
-* **Column Charts** for service, payment, and weekday analysis
-* **Donut Charts** for age segmentation and transaction distribution
-* **Slicers** for interactive filtering
+## KEY FINDINGS
 
-## 🎯 Key Objectives
+- Total transaction value is approximately 351.72K.
+- A total of 365 transactions are represented in the dashboard.
+- The overall transaction success rate is 97.26%.
+- The dashboard represents approximately 108K users.
+- Total transaction MoM growth is 8.96%.
+- Transaction value MoM growth is 8.91%.
+- Transaction value varies across different months and weekdays.
+- Mobile Recharge, FASTag Recharge, Cable TV, and DTH contribute to transaction value.
+- User activity can be analyzed across different age segments.
+- Successful and failed transaction trends can be monitored using the dashboard.
 
-* Monitor overall transaction performance
-* Analyze transaction trends over time
-* Understand user segmentation
-* Compare transaction performance across services
-* Evaluate successful and unsuccessful transactions
-* Identify weekday and weekend transaction patterns
-* Provide an interactive business intelligence view of PhonePe activity
+---
 
-## 🛠️ Tools & Technologies
+## TOOLS & TECHNIQUES
 
-* **Microsoft Power BI**
-* **Power Query**
-* **DAX (Data Analysis Expressions)**
-* **Data Modeling**
-* **Interactive Data Visualization**
-
-## 📁 Project File
-
-`PHONE PE POWERBI PROJECT.pbix`
-
-## 📌 Conclusion
-
-The dashboard transforms PhonePe transaction and user data into an **interactive business intelligence solution**, enabling users to explore transaction performance, user behavior, and key business metrics through dynamic Power BI visuals.
+- Microsoft Power BI
+- Power Query
+- DAX (Data Analysis Expressions)
+- Data Modeling
+- KPI Cards
+- Interactive Slicers
+- Bar Charts
+- Line Charts
+- Donut Charts
+- Time Intelligence
+- Interactive Data Visualization
 
